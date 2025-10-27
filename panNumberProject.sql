@@ -1,5 +1,7 @@
 
 
+-- This project is based on the video from techTFQ youtube channel
+-- Link to the youtube video: https://www.youtube.com/watch?v=J1vlhH5LFY8
 
 
 --- PAN Number Validation Project using SQL ---
